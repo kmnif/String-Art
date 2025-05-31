@@ -12,7 +12,7 @@ This project is composed of three main stages:
 
 - 1. Load and process image data with PyTorch to create a heatmap of "importance" of each pixel.
 
-![Example Monalisa_processed_image](Image_processing_and_evaluating/Monalisa_processed_image_map.png)
+![Example Monalisa_processed_image](output_images/Monalisa_processed_image_map.png)
 
 - 2. Generate node connections and plot using julia
 
