@@ -118,7 +118,7 @@ To generate a plot, you can call one of the functions as follows:
 
 @time quick_plot(G, nodes_matrix, nail_connections)
 
-![svg Example](output_images/bird_100000_overlay120000_0.002line_thickness.svg)
+![svg Example](output_images/Screenshot_bird_svg.png)
 
 ## Overview
 
