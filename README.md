@@ -1,6 +1,6 @@
 # StringArt.jl
 
-A high-performance Julia project for the generation of StringArt inspired by the works of Petros Vrellis.
+A high-performance Julia project for the generation of StringArt, utilizing PyTorch for further image processing and evaluating.
 
 ![gif Example](output_images/Bird_grey_10000.gif)
 
@@ -10,15 +10,15 @@ A high-performance Julia project for the generation of StringArt inspired by the
 
 This project is composed of three main stages:
 
-- Load and process image data with PyTorch to create a heatmap of "importance" of each pixel.
+- 1. Load and process image data with PyTorch to create a heatmap of "importance" of each pixel.
 
 ![Example Monalisa_processed_image](Image_processing_and_evaluating/Monalisa_processed_image_map.png)
 
-- Generate node connections and plot using julia
+- 2. Generate node connections and plot using julia
 
 ![Example Monalisa makie plot](output_images/Monalisa_example_makie_plot.png)
 
-- Compare similarity of output image with input image using PyTorch 
+- 3. Compare similarity of output image with input image using PyTorch 
 
 ![Example of similarity score](output_images/image.png)
 
