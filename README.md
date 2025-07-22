@@ -133,5 +133,5 @@ To generate a plot, you can call one of the functions as follows:
 1. *Clone this repository:*
 
 ```bash
-git clone https://github.com/kmnif/StringArt.jl
-cd StringArt.jl
+git clone https://github.com/kmnif/String-Art.jl
+cd String-Art.jl
