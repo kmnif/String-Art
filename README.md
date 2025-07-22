@@ -1,4 +1,4 @@
-# StringArt.jl
+# String-Art.jl
 
 A high-performance Julia project for the generation of StringArt, utilizing PyTorch for further image processing and evaluating.
 
